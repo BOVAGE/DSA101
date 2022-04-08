@@ -19,3 +19,16 @@ Introduction to Data Structures and Algorithms
 - [x] Recursion vs Iteration
 - [x] Using Recursion to solve factorial and fibanocci sequence
 - [x] Other Practical uses of Recursion
+
+## Day Three
+- [x] What is Algorithm Analysis?
+- [x] Factors that affect the run time of an Algorithm
+- [x] Three cases of an Algorithm Run time:
+- Best Case Scenerio
+- Average Case Scenario
+- Worst Case Scenerio
+- [x] Notations for Algorithm Run time Analysis:
+- Omega
+- Big - Oh 
+- Theta
+PS: MTH201 knowledge aids my comprehension.
