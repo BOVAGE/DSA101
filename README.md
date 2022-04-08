@@ -33,3 +33,9 @@ Introduction to Data Structures and Algorithms
 - Theta
 
 PS: MTH201 knowledge aids my comprehension.
+
+## Day Four
+- [x] Why should I focus on worst case algorithms analysis?
+- [x] Big - Oh Notation
+- [x] 7 Big - oh Notations with names, examples and graphs
+
