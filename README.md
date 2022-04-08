@@ -31,4 +31,5 @@ Introduction to Data Structures and Algorithms
 - Omega
 - Big - Oh 
 - Theta
+
 PS: MTH201 knowledge aids my comprehension.
