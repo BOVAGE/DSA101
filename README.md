@@ -39,3 +39,7 @@ PS: MTH201 knowledge aids my comprehension.
 - [x] Big - Oh Notation
 - [x] 7 Big - oh Notations with names, examples and graphs
 
+## Day Five
+- [x] Implemented and analysed Binary Search
+- [x] Implemented and analysed Sequential Search
+- [x] solved two katas on codewars
