@@ -43,3 +43,11 @@ PS: MTH201 knowledge aids my comprehension.
 - [x] Implemented and analysed Binary Search
 - [x] Implemented and analysed Sequential Search
 - [x] solved two katas on codewars
+
+## Day Six
+- [x] Revised last week's lesson
+- [x] What's an Array?
+- [x] Properties of Array
+- [x] Types of Arrays:
+- One Dimensional 
+- Multi Dimensional
