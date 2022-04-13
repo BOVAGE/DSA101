@@ -51,3 +51,7 @@ PS: MTH201 knowledge aids my comprehension.
 - [x] Types of Arrays:
 - One Dimensional 
 - Multi Dimensional
+
+## Day Seven
+- [x] How are Array Represented in Memory
+- [x] Common Operations with Array
