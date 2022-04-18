@@ -55,3 +55,17 @@ PS: MTH201 knowledge aids my comprehension.
 ## Day Seven
 - [x] How are Array Represented in Memory
 - [x] Common Operations with Array
+
+## Day Eight
+- [x] Big - Oh Analysis of common operations with Array
+- [x] Static and Dynamic Arrays
+- [x] How Dynamic Arrays work under the hood
+
+## Day Nine
+- [x] Tips to evaluate Big - Oh Notation.
+1. Keep the fastest growing term
+1. Drop the constant
+- [x] Introduction to Linked List
+
+## Day Ten
+- [x] Solved two Katas on Codewars
