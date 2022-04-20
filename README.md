@@ -69,3 +69,14 @@ PS: MTH201 knowledge aids my comprehension.
 
 ## Day Ten
 - [x] Solved two Katas on Codewars
+
+## Day Eleven
+- [x] Comparism of Array with LinkedList
+- [x] Big - oh Analysis of common operations with LinkedList
+- [x] Implementation of Single LinkedList
+- [x] Did exercise of implementing extra methods on the Single LinkedList
+
+## Day Twelve
+- [x] Introduction to Hash Table
+- [x] Hash function
+- [x] Implementation of Hash Table
