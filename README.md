@@ -87,3 +87,9 @@ PS: MTH201 knowledge aids my comprehension.
 - Linear Probing
 - [x] Implementation of Separate Chaining
 - [x] Implementation of delete item
+
+## Day Fourteen
+- [x] Stack -- LIFO
+- [x] Classes used in Python for stack
+- [x] Implementation of Stack using collection.deque
+- [x] Use cases of Stack 
