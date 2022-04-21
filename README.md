@@ -80,3 +80,10 @@ PS: MTH201 knowledge aids my comprehension.
 - [x] Introduction to Hash Table
 - [x] Hash function
 - [x] Implementation of Hash Table
+
+## Day Thirteen
+- [x] Handling Collision in Hash Table:
+- Separate Chaining
+- Linear Probing
+- [x] Implementation of Separate Chaining
+- [x] Implementation of delete item
