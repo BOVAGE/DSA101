@@ -93,3 +93,8 @@ PS: MTH201 knowledge aids my comprehension.
 - [x] Classes used in Python for stack
 - [x] Implementation of Stack using collection.deque
 - [x] Use cases of Stack 
+
+## Day Fifteen
+- [x] Solved two katas on codewars
+- [x] Queue - FIFO
+- [x] Implementation of Queue using collection.deque
