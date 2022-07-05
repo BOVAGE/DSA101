@@ -106,3 +106,7 @@ It's been a while
 - [x] exercised my knowledge of linked list and array
 - [x] Introduction to general tree
 - [x] Implementation of tree
+
+## Day Seventeen 5/07/2022
+- [x] study other people's solution on Two sums problem
+- [x] Space complexity
