@@ -98,3 +98,11 @@ PS: MTH201 knowledge aids my comprehension.
 - [x] Solved two katas on codewars
 - [x] Queue - FIFO
 - [x] Implementation of Queue using collection.deque
+
+It's been a while
+
+## Day Sixteen 4/07/2022
+- [x] solved one easy [Two sums] and one medium problem [add two numbers] on leetcode
+- [x] exercised my knowledge of linked list and array
+- [x] Introduction to general tree
+- [x] Implementation of tree
