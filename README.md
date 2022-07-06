@@ -110,3 +110,7 @@ It's been a while
 ## Day Seventeen 5/07/2022
 - [x] study other people's solution on Two sums problem
 - [x] Space complexity
+
+## Day Eighteen 6/07/2022
+- [x] solved Best time to buy and sell problem on leetcode
+- [x] Two pointers Technique
