@@ -114,3 +114,8 @@ It's been a while
 ## Day Eighteen 6/07/2022
 - [x] solved Best time to buy and sell problem on leetcode
 - [x] Two pointers Technique
+
+## Day Nineteen 7/07/2022
+- [x] Realized have solved contains Duplicate - LC 217 during my break
+- [x] Looked for others ways it can be solved
+- [ ] Atempted LC 238, will try again tomorrow
