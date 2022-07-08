@@ -119,3 +119,6 @@ It's been a while
 - [x] Realized have solved contains Duplicate - LC 217 during my break
 - [x] Looked for others ways it can be solved
 - [ ] Atempted LC 238, will try again tomorrow
+
+## Day Twenty 8/07/2022
+- [x] Seek help in solving LC 238
